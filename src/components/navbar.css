@@ -1,0 +1,19 @@
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    text-align: center;
+    width: 70%;
+    border-radius: 20%;
+    box-shadow: 0% 2% 10% rgba(0,0,0, 0.2);
+    background: rgb(91, 92, 95);
+}
+.header h1{
+    color: seashell;
+    
+}
+.header p{
+    color: tan;
+}.header span{
+    color: white;
+}
